@@ -30,9 +30,9 @@ Using this graph, we can create valid sentences such:
 
 Notice that 'How many places time= hour' is not a valid sentence, because of the directionality of the siblings
 
-Cycles can be done as illustrated on levels 4,5. In fact one can go as 'infinitely deep' by recalling this levels
+Cycles can be done as illustrated on levels 4,5. In fact one can go as 'infinitely deep' by recalling these levels
 
-One of sentence is illustrated below:
+One sentence is illustrated below:
 
 ![Alt text](https://github.com/danrugeles/EBNF_visualization/blob/master/sentence.png "aql sentence")
 
